@@ -9,3 +9,6 @@ How to use
 5. Press ok
 
 Enjoy.
+
+Note: Pycryptodome is required for the program to work on AES encrypted pdfs.
+List of required modules
