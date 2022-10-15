@@ -1,4 +1,4 @@
-# PDF_Searcher
+# PDF_Searcher (DEPRECATED see PDF_Searcher-new-)
 A python program that takes a list of strings and a pdf as its input and creates a pdf that contains only the pages that include words from the list
 
 How to use
